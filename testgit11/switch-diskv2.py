@@ -7,7 +7,7 @@ import re,time
 import smtplib
 from email.mime.text import MIMEText        # 负责构造邮件正文
 from email.header import Header
-
+#
 dd = {}
 ddd = {}
 c = 'cpu_usage:'
